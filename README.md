@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <p>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/nextdotjs.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
