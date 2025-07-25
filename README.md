@@ -28,6 +28,8 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: murillo_comino@hotmail.com;
 
 
+<br/>
+<br/>
 
 **My TechStack:** 
 
