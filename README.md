@@ -18,13 +18,13 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning software development and data engineer
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working as freelancer;
+- 🌱 I’m currently learning software and data engineer
+- 🤔 My experience level is 20- years;
+- 📌 I'm live in Depok, Indonesia
 - ⚡️ Fun-Fact: I delete my Windows;
 - 📫 How to reach me: mdhilmansory@gmail.com.com;
+- 💬 Ask me about anything, I am happy to help;
 
 
 <br/>
