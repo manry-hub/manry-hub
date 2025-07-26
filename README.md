@@ -21,8 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working as freelancer;
 - 🌱 I’m currently learning software and data engineer
 - 🤔 My experience level is 20- years;
-- 📌 I'm live in Depok, Indonesia
-- ⚡️ Fun-Fact: I delete my Windows;
+- ⚡️ Fun-Fact: I'm live in Depok, Indonesia
 - 📫 How to reach me: mdhilmansory@gmail.com.com;
 - 💬 Ask me about anything, I am happy to help;
 
