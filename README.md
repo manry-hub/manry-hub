@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Muhammad Hilman Ansory, a Developer 🚀.
+## Hi, I'm Muhammad Hilman Ansory.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
