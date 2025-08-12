@@ -18,8 +18,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently learning software
-     and data engineering
+- 👨🏽‍💻 I’m currently learning
+  software and data engineering
 - 🤔 My experience level is 20- years;
 - ⚡️ Fun-Fact: I'm live in Depok, Indonesia
 - 💬 Ask me about anything, I am happy to help;
