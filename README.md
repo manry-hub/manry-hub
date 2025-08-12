@@ -22,7 +22,6 @@ You can use the website to generate badges: https://shields.io/
      and data engineering
 - 🤔 My experience level is 20- years;
 - ⚡️ Fun-Fact: I'm live in Depok, Indonesia
-- 📫 How to reach me: mdhilmansory@gmail.com.com;
 - 💬 Ask me about anything, I am happy to help;
 
 
