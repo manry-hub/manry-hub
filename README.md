@@ -4,9 +4,6 @@
 <!-- Your title -->
 ## Hi, I'm Muhammad Hilman Ansory.
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilmansory/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/md.hilmansorry/)
@@ -62,9 +59,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-
-
----
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
