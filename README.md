@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently learning
-  software and data engineering
+  software and database engineering
 - 🤔 My experience level is 20- years;
 - ⚡️ Fun-Fact: I'm live in Depok, Indonesia
 - 💬 Ask me about anything, I am happy to help;
