@@ -17,8 +17,8 @@
 
 - 👨🏽‍💻 I’m currently learning
   software and database engineering
-- 🤔 My experience level is 20- years;
-- ⚡️ Fun-Fact: I'm live in Depok, Indonesia
+- 🤔 My experience level is 0 years;
+- ⚡️ I'm live in Depok, Indonesia
 - 💬 Ask me about anything, I am happy to help;
 
 
