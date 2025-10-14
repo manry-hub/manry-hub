@@ -51,8 +51,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/talend/talend-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
 </p>
 
 
