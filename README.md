@@ -15,11 +15,11 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently learning
+- I’m currently learning
   software and database engineering
-- 🤔 My experience level is 0 years;
-- ⚡️ I'm live in Depok, Indonesia
-- 💬 Ask me about anything, I am happy to help;
+- My experience level is 0 years;
+- I'm live in Depok, Indonesia
+- Ask me about anything, I am happy to help;
 
 
 <br/>
