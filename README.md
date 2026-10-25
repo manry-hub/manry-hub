@@ -53,6 +53,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg"></code>
 </p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=manry-hub&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170328971%3Fu%3D36b8e49d8e52c1c7e3fd82e0f82e5e77734bd130%26v%3D4" alt="manry-hub social visual" />
+</p>
+
 
 
 <!--horizontal divider(gradiant)-->
