@@ -56,6 +56,6 @@
 ## The city I built this year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=manry-hub&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170328971%3Fu%3D36b8e49d8e52c1c7e3fd82e0f82e5e77734bd130%26v%3D4" alt="manry-hub city visual" />
+  <img src="https://www.gitskins.com/api/section/city?username=manry-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170328971%3Fu%3D36b8e49d8e52c1c7e3fd82e0f82e5e77734bd130%26v%3D4" alt="manry-hub city visual" />
 </p>
 
