@@ -55,7 +55,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=manry-hub&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170328971%3Fu%3D36b8e49d8e52c1c7e3fd82e0f82e5e77734bd130%26v%3D4" alt="manry-hub social visual" />
