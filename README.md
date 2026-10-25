@@ -7,7 +7,9 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/6289653531029)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhilmansory@gmail.com)
 
-&nbsp;
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -53,8 +55,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg"></code>
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=manry-hub&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170328971%3Fu%3D36b8e49d8e52c1c7e3fd82e0f82e5e77734bd130%26v%3D4" alt="manry-hub stats visual" />
